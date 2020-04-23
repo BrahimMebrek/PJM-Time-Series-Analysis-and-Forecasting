@@ -2,6 +2,8 @@
 
 ### The visualizations are interactive and made with plotly, make sure to use Nbviewer to check out the notebook.  
 
+https://nbviewer.jupyter.org/github/BrahimMebrek/PJM-Time-Series-Analysis-and-Forecasting/blob/master/PJM_East_EDA_and_Forecasting.ipynb
+
 This notebook is a study of the **PJM** energy consumption dataset and focus on the **East** coast of the US, a friend of mine "Souames Anis" worked on a similar notebook targeting the West coast.
 
 - Check out Anis work on : https://github.com/anis-coding/PJM-Time-Series-Analysis
