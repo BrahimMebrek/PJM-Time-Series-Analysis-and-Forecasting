@@ -19,6 +19,13 @@ It contains :
 **Data :** The dataset contains hourly data from 2002 upto 2018 on the power consumption from several companies including PJM, it's available on Kaggle 
 https://www.kaggle.com/robikscube/hourly-energy-consumption.
 
+### Ressources :
+- https://github.com/groverpr/Machine-Learning/blob/master/notebooks/01_Gradient_Boosting_Scratch.ipynb
+- https://www.kaggle.com/robikscube/tutorial-time-series-forecasting-with-xgboost
+- https://github.com/parrt/ml-articles/tree/master/gradient-boosting/notebooks
+- https://github.com/Jcharis/DataScienceTools/tree/master/Timeseries%20Analysis%20with%20Facebook%20Prophet
+
+
 ### Created By 
 - MEBREK Brahim 
 - SOUAMES Anis
